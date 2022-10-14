@@ -1,0 +1,6 @@
+---
+title: "Trabalho Computação Cientifica"
+author: Arthur de Jesus
+date: 13/Oct/2022
+output: html_document
+---

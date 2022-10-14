@@ -1,0 +1,47 @@
+* {
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.header {
+    color: #CFCFCF!important;
+    margin: auto!important;
+    text-align: center!important;
+    max-width: 100%!important;
+    height: 220px!important;
+    background-color: rgba(0, 0, 0, 0.93) !important;
+}
+
+.header-title{
+    margin: 10px!important;
+}
+
+.menu{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)!important;
+    background-color: #ffffff!important;
+    width: 50%!important;
+    height: auto !important;
+    margin: -50px auto 0!important;
+}
+
+.text-menu{
+    text-align: center!important;
+}
+
+.dropdown{
+    width: 80%;
+}
+
+.playerTop{
+    text-align: center;
+}
+
+.infos{
+    text-align: center;
+    margin: 5px;
+}
+
+.img{
+    width: 200px;
+    height: 150px;
+}
